@@ -26,7 +26,7 @@ clang++ -o decoder.exe decoder.cpp // using Clang
 
 run decoder.exe
 ```
-### 1. Clone Repository
+### Clone Repository
 
 Clone this repository to your local machine using Git:
 
